@@ -1,0 +1,18 @@
+crear entorno : python -m venv venv_proyecto_parcial
+
+activar entorno : venv_proyecto_parcial\Scripts\activate
+
+congelar dependencias : pip freeze > requirements.txt
+
+instalar dependencias congeladas : pip install -r requirements.txt
+
+
+
+"C:/Users/Christhian/Documents/Cursos/DATA_ANALYTICS_CERTUS/3_20241763DATAOPSMA/proyecto_parcial/venv_proyecto_parcial/Scripts/activate.bat"
+
+"C:/Users/Christhian/Documents/Cursos/DATA_ANALYTICS_CERTUS/3_20241763DATAOPSMA/proyecto_parcial/python/DATAOPS.py"
+
+
+DESKTOP-B79611N
+"C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/SQLCMD.EXE"
+"C:/Users/Christhian/Documents/Cursos/DATA_ANALYTICS_CERTUS/3_20241763DATAOPSMA/proyecto_parcial/sql/Carga_datos.sql"
