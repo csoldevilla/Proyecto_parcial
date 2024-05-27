@@ -1,6 +1,6 @@
 import os
-import warnings
-
+import warnings 
+ 
 warnings.filterwarnings("ignore")
 
 ### Carpeta Dataset ####
