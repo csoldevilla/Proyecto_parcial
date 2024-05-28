@@ -30,4 +30,4 @@ ROWTERMINATOR ='0x0a'	-- hace referencia a un salto de linea
 )
 Go
 
-select  * from netflix
+--select  * from netflix
